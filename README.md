@@ -1,4 +1,5 @@
-# BMI Supportive Web App
+# BMI Health Assistant
+
 
 A supportive and user-friendly web application that allows users to calculate their Body Mass Index (BMI) and receive helpful, non-judgmental resources to support healthy weight goals.  
 The project is fully Dockerized to ensure easy setup and reproducibility for any developer.
@@ -16,7 +17,7 @@ Development Notes
 About
 
 ## Overview
-The BMI Supportive Web App is designed to help users calculate their BMI using height and weight inputs.  
+The BMI Health Assistant is designed to help users calculate their BMI using height and weight inputs.  
 After calculating the BMI, the application clearly displays the BMI value and category.  
 Users can optionally continue to a supportive resources page that provides apps and social media creators related to weight gain or weight loss in a positive and comfortable way.
 
@@ -45,8 +46,8 @@ This project can be run locally using Docker. No additional software or database
 ### Installation (Docker)
 1. Clone the repository:
 
-git clone https://github.com/your-username/BMI-Supportive-WebApp.git  
-cd BMI-Supportive-WebApp
+git clone https://github.com/your-username/BMI-Health-Assistant.git  
+cd BMI-Health-Assistant
 
 2. Build the Docker image:
 
